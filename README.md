@@ -1,2 +1,12 @@
 # 100daysofverilog
 Verilog Practice codes from Beginning to Advanced 
+
+Day 1 : Basic Logic Gates  
+Day 2 : Binary to Gray Converter, Gray to Binary Converter (4 bits)  
+Day 3 : BCD to XS3 Converter, XS3 to BCD Converter (4 bits)  
+Day 4 : Half Adder, Subtractor  
+Day 5 : Full Adder, Subtractor  
+Day 6 : Encoder 8x3 , Decoder 3x8  
+Day 7 : Mux 4:! , Demux 1:4   
+Day 8 : Latches (D, SR, JK)  
+Day 9 : FlipFlops (D, SR, JK)  
