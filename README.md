@@ -13,4 +13,6 @@ Day 9 : FlipFlops (D, SR, JK)
 Day 10 : Asynchronous Up-Down Counter, Johnson Counter  
 Day 11 : Clock Divider / Frequency Divider  
 Day 12 : PWM generator  
-Day 13 : Universal Shift Register   
+Day 13 : Universal Shift Register  
+Day 14 : Traffic Light Controller  
+Day 15 : Arithmetic Logic Unit (ALU)  
