@@ -5,6 +5,8 @@ module mealy_nonover(
 	output reg dout
 );
 
+//sequence - 10101	
+	
 parameter S0 = 3'd0;
 parameter S1 = 3'd1;
 parameter S2 = 3'd2;
