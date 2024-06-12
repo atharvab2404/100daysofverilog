@@ -18,3 +18,5 @@ Day 14 : Traffic Light Controller
 Day 15 : Arithmetic Logic Unit (ALU)  
 Day 16 : Moore Non - Overlapping Sequence Detector  
 Day 17 : Mealy Non - Overlapping Sequence Detector  
+Day 18 : Moore Overlapping Sequence Detector  
+Day 19 : Mealy Overlapping Sequence Detector  
