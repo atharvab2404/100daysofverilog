@@ -5,7 +5,7 @@ module moore_nonover(
 	output reg dout
 );
 
-////sequence - 10101	
+//sequence - 10101	
 
 parameter S0 = 3'd0;
 parameter S1 = 3'd1;
