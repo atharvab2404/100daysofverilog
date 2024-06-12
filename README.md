@@ -7,7 +7,7 @@ Day 3 : BCD to XS3 Converter, XS3 to BCD Converter (4 bits)
 Day 4 : Half Adder, Subtractor  
 Day 5 : Full Adder, Subtractor  
 Day 6 : Encoder 8x3 , Decoder 3x8  
-Day 7 : Mux 4:! , Demux 1:4   
+Day 7 : Mux 4:1 , Demux 1:4   
 Day 8 : Latches (D, SR, JK)  
 Day 9 : FlipFlops (D, SR, JK)  
 Day 10 : Asynchronous Up-Down Counter, Johnson Counter  
