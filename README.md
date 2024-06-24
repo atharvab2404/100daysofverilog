@@ -24,3 +24,4 @@ Day 20 : UART Transmitter
 Day 21 : UART Reciever  
 Day 22 : FIFO  
 Day 23 : Single Port RAM  
+Day 24 : Dual Port RAM  
