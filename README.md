@@ -22,3 +22,5 @@ Day 18 : Moore Overlapping Sequence Detector
 Day 19 : Mealy Overlapping Sequence Detector  
 Day 20 : UART Transmitter  
 Day 21 : UART Reciever  
+Day 22 : FIFO  
+Day 23 : Single Port RAM  
