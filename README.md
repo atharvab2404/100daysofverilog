@@ -21,3 +21,4 @@ Day 17 : Mealy Non - Overlapping Sequence Detector
 Day 18 : Moore Overlapping Sequence Detector  
 Day 19 : Mealy Overlapping Sequence Detector  
 Day 20 : UART Transmitter  
+Day 21 : UART Reciever  
